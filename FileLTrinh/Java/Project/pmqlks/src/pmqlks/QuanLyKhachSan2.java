@@ -331,6 +331,7 @@ public class QuanLyKhachSan2{
 	}
 	else if(i == 3) 
 	{
+		System.out.println("Choi game khong: ");
 		System.out.println("Phong ban muon dat: ");
 		if((t = luachonit.nextInt()) <= 50) dvkhachsan.datdoan(t);
 		else System.out.println("Phong khong kha dung: ");
