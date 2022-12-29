@@ -268,7 +268,7 @@ class dvkhachsan{
 		 System.out.println("Ban muon xem mieu ta ve dang phong nao: \n1.Phong Don\n2.Phong Doi\n3.Phong Karaoke");
 		 t = luachonit.nextInt();
 		 if(t == 1){
-			 System.out.println("Phong don co cac dich vu:\n1.An sang mien phi deo can tra so tien lon phai tra\n2.Su dung ho boi\n3.Giat quan ao mien phi\n4.Phong co may lanh\nGia : 200000d/phong\n");
+			 System.out.println("Phong don co cac dich vu:\n1.An sang mien phi deo can pay so money lon phai tra\n2.Su dung ho boi\n3.Giat quan ao mien phi\n4.Phong co may lanh\nGia : 200000d/phong\n");
 		 }
 		 else if(t == 2) {
 			 System.out.println("Phong don co cac dich vu:\n1.An sang mien phi\n2.Su dung ho boi\n3.Giat quan ao mien phi\n4.Phong co may lanh\nGia : 350000d/phong\n");
